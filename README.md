@@ -1,5 +1,4 @@
-git clone https://github.com/Shohagahsanjoy/Bypass
+git clone https://github.com/Shohagahsanjoy/2004-2009
+cd 2004-2009
 
-cd Bypass
-
-python bypass.py
+python2 2004-2009.py
